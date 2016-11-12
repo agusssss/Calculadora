@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458858548 source:e:\programacion\c++\calculadora\main.cpp
+	<iostream>
+	<cstdlib>
+
+1458858548 
+
+1459482060 source:/media/fsociety91/RESPALDO/PROGRAMACION/C++/calculadora/main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+
