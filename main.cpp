@@ -1,6 +1,3 @@
-/*
-*ARAUJO MORENO ALEXIS ABRAHAM
-*/
 #include <iostream>
 #include <cstdlib>
 #include <stdlib.h>
@@ -10,15 +7,15 @@ using namespace std;
 int main()
 {
     //sabe
-    cout << "                           ||||||||||||||||||||||||||||||||||||||" << endl;
-    cout << "                           ||                                  ||" << endl;
-    cout << "                           ||                                  ||" << endl;
-    cout << "                           ||                                  ||" << endl;
-    cout << "                           ||       CALCULADORA HECHO EN       ||" << endl;
-    cout << "                           ||               C++                ||" << endl;
-    cout << "                           ||                                  ||" << endl;
-    cout << "                           ||                                  ||" << endl;
-    cout << "                           ||||||||||||||||||||||||||||||||||||||\n\n" << endl;
+    cout << "                    ||||||||||||||||||||||||||||||||||||||    " << endl;
+    cout << "                    ||                                  ||    " << endl;
+    cout << "                    ||                                  ||    " << endl;
+    cout << "                    ||                                  ||    " << endl;
+    cout << "                    ||       CALCULADORA HECHO EN       ||    " << endl;
+    cout << "                    ||               C++                ||    " << endl;
+    cout << "                    ||                                  ||    " << endl;
+    cout << "                    ||                                  ||    " << endl;
+    cout << "                    ||||||||||||||||||||||||||||||||||||||\n\n" << endl;
 
     //declaramos las variables
     bool suma = false;
@@ -117,6 +114,24 @@ int main()
             {
                 //termina el ciclo y se termina el programa calculadora
                 cicloCalculadora == 1;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
+                cout<<endl;
             }
             else
             {
@@ -134,7 +149,4 @@ int main()
     system("pause");
     return 0;
 }
-
-
-
 
